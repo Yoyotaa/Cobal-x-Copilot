@@ -1,0 +1,57 @@
+# cobol compiled files
+*.o
+
+# cobol accountsystem program
+accountsystem
+
+# node_modules
+node_modules/
+
+# node-accounting-app
+node-accounting-app/*
+
+# Environment and secrets
+.env
+.env.local
+.env.production
+*.pem
+*.key
+ssl/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+# Docker
+.dockerignore
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+tmp/
+temp/

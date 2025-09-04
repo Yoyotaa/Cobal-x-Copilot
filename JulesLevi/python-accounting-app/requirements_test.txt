@@ -1,0 +1,6 @@
+# Test dependencies for Python Accounting Application
+pytest>=7.0.0
+pytest-html>=3.1.0
+pytest-cov>=4.0.0
+pytest-mock>=3.8.0
+coverage>=6.0.0
