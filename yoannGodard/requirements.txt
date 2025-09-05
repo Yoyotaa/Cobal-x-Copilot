@@ -1,0 +1,2 @@
+# Dépendances pour l'application de gestion de compte bancaire
+# Aucune dépendance externe requise pour cette version de base
